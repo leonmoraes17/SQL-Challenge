@@ -10,5 +10,5 @@ The Entity Relationship Diagram was created on: https://www.quickdatabasediagram
 #Data Engineering You can find the following schema of the code in the file titled: Data Engineering - Schema.sql
 
 
-#Data Analysis: Data Analysis and Querying was completed, and can be found in the file titled: Data Analysis.sql
+#Data Analysis: Data Analysis and Querying was completed, and can be found in the file titled: Table and Query Schema.sql
 
